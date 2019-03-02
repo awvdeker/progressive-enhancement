@@ -1,0 +1,23 @@
+p {
+  line-height: 1,6;
+  font-family: serif;
+  font-size: large;
+  color: rgb(74,72,63);
+  letter-spacing: 3px;
+  word-spacing: normal;
+}
+a{
+  font-family: serif;
+  color: rgb(74,72,63);
+  font-size: large;
+}
+a:link{
+  text-decoration:none;
+}
+a:hover{
+  color: red;
+  background-color: yellow;
+}
+a:visited{
+  color: green;
+}
