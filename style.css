@@ -44,10 +44,17 @@ q{
   padding-left: 30px;
   /*color: red;*/
   /*border: 2px solid green;*/
+  font-style: italic;
 }
 blockquote{
   max-width: 50%;
   margin: 0 auto 0 auto;
   /*color: brown;*/
   /*border: 2px solid green;*/
+}
+.villagers{
+  border-color: RGB(170, 51, 17);
+}
+.farmer{
+  border-color: yellow;
 }
