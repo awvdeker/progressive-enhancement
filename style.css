@@ -1,6 +1,7 @@
 body{
   max-width: 90%;
   margin: 0 auto;
+  background-color: rgb(230, 242, 255);
 }
 p {
   line-height: 1,6;
