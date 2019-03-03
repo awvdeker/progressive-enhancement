@@ -1,3 +1,7 @@
+body{
+  max-width: 90%;
+  margin: 0 auto;
+}
 p {
   line-height: 1,6;
   font-family: serif;
@@ -5,6 +9,7 @@ p {
   color: rgb(74,72,63);
   letter-spacing: 3px;
   word-spacing: normal;
+  text-align: justify;
 }
 a{
   font-family: serif;
@@ -20,4 +25,21 @@ a:hover{
 }
 a:visited{
   color: green;
+}
+q{
+  display: block;
+  max-width: 50%;
+  margin: 80px auto 80px auto;
+  font-size: 1.6rem;
+  background-color: #f2f2f2;
+  border-left: 3px solid RGB(170, 51, 17);
+  padding-left: 30px;
+  /*color: red;*/
+  /*border: 2px solid green;*/
+}
+blockquote{
+  max-width: 50%;
+  margin: 0 auto 0 auto;
+  /*color: brown;*/
+  /*border: 2px solid green;*/
 }
