@@ -58,3 +58,9 @@ blockquote{
 .farmer{
   border-color: yellow;
 }
+header > h1 {
+  background-color: yellow;
+}
+[target] {
+  border:2px solid green;
+}
