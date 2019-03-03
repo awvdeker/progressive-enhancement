@@ -64,3 +64,12 @@ header > h1 {
 [target] {
   border:2px solid green;
 }
+.good, .bad {
+  text-transform: capitalize;
+}
+.bad {
+  color: red;
+}
+.good {
+  color: green;
+}
