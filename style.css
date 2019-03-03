@@ -2,8 +2,12 @@ body{
   max-width: 90%;
   margin: 0 auto;
   /*background-color: rgb(230, 242, 255);*/
-  background: -webkit-linear-gradient(90deg, rgb(255, 255, 255), rgb(167, 210, 252));
+  /*background: -webkit-linear-gradient(90deg, rgb(255, 255, 255), rgb(167, 210, 252));
   background: linear-gradient(90deg, rgb(255, 255, 255), rgb(167, 210, 252));
+  */
+  background-image: url("achtergrond.jpeg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
 }
 p {
   line-height: 1,6;
