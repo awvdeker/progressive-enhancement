@@ -8,6 +8,7 @@ body{
   background-image: url("achtergrond.jpeg");
   background-repeat: no-repeat;
   background-position: right bottom;
+  background-size: cover;
 }
 p {
   line-height: 1,6;
