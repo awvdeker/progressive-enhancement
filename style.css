@@ -114,3 +114,6 @@ img {
   height: 100px;
   float: left;
 }
+body {
+  font-family: 'Open Sans', sans-serif;
+}
