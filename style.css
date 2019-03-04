@@ -103,3 +103,8 @@ li.thirditem {
   background-position: top 0% right 50%;
   background-size: contain;
 }
+p.first {
+  font-weight: bold;
+  /*color: red;*/
+  /*border: 2px solid green;*/
+}
