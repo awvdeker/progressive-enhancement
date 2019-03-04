@@ -78,3 +78,28 @@ table{
 }
 tr:nth-child(even) {background: #CCC;}
 tr:nth-child(odd) {background: #FFF;}
+/*ul {
+  border: 2px solid green;
+}*/
+li.firstitem {
+  /*border: 1px solid red;*/
+  background-image: url(bien.png);
+  background-repeat: no-repeat;
+  background-position: top 0% right 50%;
+  background-size: contain;
+  /*padding-right: 50px;*/
+  /*list-style: square outside none;*/
+  /*list-style-image: url(bien.png);*/
+}
+li.seconditem {
+  background-image: url(mal.png);
+  background-repeat: no-repeat;
+  background-position: top 0% right 50%;
+  background-size: contain;
+}
+li.thirditem {
+  background-image: url(chat.png);
+  background-repeat: no-repeat;
+  background-position: top 0% right 50%;
+  background-size: contain;
+}
