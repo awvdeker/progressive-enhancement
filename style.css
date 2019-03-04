@@ -108,3 +108,9 @@ p.first {
   /*color: red;*/
   /*border: 2px solid green;*/
 }
+img {
+  margin: 10px 100px 10px 10px;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
